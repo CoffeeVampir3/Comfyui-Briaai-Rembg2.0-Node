@@ -1,0 +1,6 @@
+torch
+torchvision
+pillow
+kornia
+transformers
+huggingface_hub
